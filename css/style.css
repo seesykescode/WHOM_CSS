@@ -1,0 +1,92 @@
+*, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.container div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid whitesmoke;
+  margin: 5px;
+  padding: 10px;
+}
+
+.s1 {
+  display: flex;
+  border: 2px solid black;
+  height: 95vh;
+  width: 95vh;
+  background-color: yellow;
+}
+
+.s2 {
+  background-color: orange;
+  height: 97%;
+  width: 97%;
+}
+
+.s3 {
+  background-color: red;
+  height: 95%;
+  width: 95%;
+}
+
+.s4 {
+  background-color: limegreen;
+  height: 93%;
+  width: 93%;
+}
+
+.s5 {
+  background-color: blue;
+  height: 91%;
+  width: 91%;
+}
+
+.s6 {
+  background-color: purple;
+  height: 89%;
+  width: 89%;
+}
+
+.s7 {
+  background-color: blue;
+  height: 87%;
+  width: 87%;
+}
+
+.s8 {
+  background-color: limegreen;
+  height: 85%;
+  width: 85%;
+}
+
+.s9 {
+  background-color: red;
+  height: 83%;
+  width: 83%;
+}
+
+.s10 {
+  background-color: orange;
+  height: 81%;
+  width: 81%;
+}
+
+.s11 {
+  background-color: yellow;
+  height: 79%;
+  width: 79%;
+}
